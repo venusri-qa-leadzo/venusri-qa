@@ -1,9 +1,10 @@
 ---
-name: "🚀 Enhancement"
+name: "\U0001F680 Enhancement"
 about: Suggest an improvement to the product
 title: "[Enhancement]: "
 labels: enhancement
-assignees: ""
+assignees: ''
+
 ---
 
 ## Summary
